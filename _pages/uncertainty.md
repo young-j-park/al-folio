@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/latent
+permalink: /publications/uncertainty
 title: Publications
 description: <sup>*</sup>authors contributed equally. <br> <br>
   <a href=dynamical>#Dynamical systems</a>
