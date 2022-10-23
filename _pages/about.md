@@ -13,10 +13,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm PhD Student at <a href="https://lids.mit.edu/people/faculty-pi">MIT LIDS</a>, advised by <a href="https://azizan.mit.edu/index.html">Prof. Navid Azizan</a>. My current research interest lies in developing a safe and flexible machine learning framework.
+I'm PhD Student at <a href="https://lids.mit.edu/people/faculty-pi">MIT LIDS</a>, advised by <a href="https://azizan.mit.edu/index.html">Prof. Navid Azizan</a>. My current research interest lies in scalable <strong>uncertainty-aware</strong> deep learning framework.
 
 I was an AI research engineer at <a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab & CLOVA</a>.
-At NAVER, I researched <strong>generalizable representation learning</strong> for temporal and relational data, while developing a large-scale recommender system and demand forecasting system.
+At NAVER, I researched <strong>large-scale representation learning</strong> for temporal and relational data, and developed real-world recommender systems and demand forecasting systems.
 
 I received my B.S. and M.S. degree in Aerospace Engineering from KAIST in 2017 and 2019, respectively, 
 under the supervision of <a href="https://scholar.google.com/citations?user=v5hGAWMAAAAJ&hl=en">Prof. Han-Lim Choi</a>.
