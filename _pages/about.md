@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm PhD Student at <a href="https://lids.mit.edu/people/faculty-pi">MIT LIDS</a>, advised by <a href="https://azizan.mit.edu/index.html">Prof. Navid Azizan</a>. My current research interest lies in scalable <strong>uncertainty-aware</strong> deep learning frameworks.
+I'm PhD Student at <a href="https://lids.mit.edu/people/faculty-pi">MIT LIDS</a>, advised by <a href="https://azizan.mit.edu/index.html">Prof. Navid Azizan</a>. My current research interest lies in scalable <strong>uncertainty estimation</strong> in self-supervised learning.
 
 I was an AI research engineer at <a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab & CLOVA</a>.
 At NAVER, I researched <strong>large-scale representation learning</strong> for temporal and relational data, and developed real-world recommender systems and demand forecasting systems.
