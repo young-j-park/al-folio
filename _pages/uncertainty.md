@@ -8,7 +8,7 @@ description: <sup>*</sup>authors contributed equally. <br> <br>
   <a href=graph>#Graph learning</a>
   <a href=latent>#LVMs</a>
   <a href=sensor>#Sensors</a>
-years: [2022, 2021, 2020, 2019, 2018]
+years: [2023, 2022, 2021, 2020, 2019, 2018]
 nav: false
 ---
 
