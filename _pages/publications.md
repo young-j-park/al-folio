@@ -3,10 +3,10 @@ layout: page
 permalink: /publications/
 title: Publications
 description: <sup>*</sup>authors contributed equally. <br> <br> 
-  <a href=uncertainty>#Uncertainty estimation</a>
-  <a href=latent>#Latent variable models</a>
-  <a href=dynamical>#Dynamical systems</a>
-  <a href=graph>#Graph learning</a>
+  <a href=uncertainty>#Uncertainty Quantification</a>
+  <a href=latent>#Latent Variable Models</a>
+  <a href=dynamical>#Dynamical Systems</a>
+  <a href=graph>#Graph Learning</a>
   <a href=sensor>#Sensors</a>
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
 nav: true
