@@ -17,7 +17,8 @@ I'm PhD Student at <a href="https://lids.mit.edu/people/faculty-pi">MIT LIDS</a>
 My current research interest lies in <strong>quantifying reliability</strong> of foundational models.
 
 I was an AI research engineer at <a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab & CLOVA</a>.
-At NAVER, I researched <strong>large-scale representation learning</strong> for temporal and relational data, and developed real-world recommender systems and demand forecasting systems.
+At NAVER, I developed a <strong> user behavior models </strong> and <strong> recommender systems </strong> using large language models (LLMs) for tens of millions of users.
+I also conducted research on large-scale representation learning for <strong> temporal data </strong> (e.g., demand forecasting systems).
 
 I received my M.S. and B.S. degree in Aerospace Engineering and Mathematical Sciences (minor) from KAIST in 2019 and 2017, respectively, 
 under the supervision of <a href="https://scholar.google.com/citations?user=v5hGAWMAAAAJ&hl=en">Prof. Han-Lim Choi</a>.
