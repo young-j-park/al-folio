@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm PhD Student at <a href="https://lids.mit.edu/people/faculty-pi">MIT LIDS</a>, advised by <a href="https://azizan.mit.edu/index.html">Prof. Navid Azizan</a>.
-My current research interest lies in <strong>quantifying reliability</strong> of foundational models.
+My current research interest lies in <strong>quantifying reliability of foundational models </strong> (e.g., LLMs).
 
 I was an AI research engineer at <a href="https://naver-career.gitbook.io/en/teams/clova-cic">NAVER AI Lab & CLOVA</a>.
 At NAVER, I developed a <strong> user behavior models </strong> and <strong> recommender systems </strong> using large language models (LLMs) for tens of millions of users.
